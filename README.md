@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello, I’m Pedro.
 
-<!--
-**peduarte/peduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a UI developer interested in design systems, jamstack, user/dev experience and under engineering.
 
-Here are some ideas to get you started:
+I work at [Modulz](https://modulz.app) as a DX Engineer. Helping close the gap between design—dev and focusing on [Radix](https://radix-ui.com) and [Stitches](https://stitches.dev).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I was born in Brazil, raised in the UK and now living in Barcelona with my little family.
+
+
+[My personal website](https://ped.ro/) <br />
+[@peduarte on Twitter](https://ped.ro/twitter/)
+
+👊
